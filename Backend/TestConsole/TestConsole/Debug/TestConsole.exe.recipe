@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\my_projects\FactorioVoxel2\Backend\TestConsole\Debug\TestConsole.exe</FullPath>
+      <FullPath>C:\my_projects\FactorioVoxel2\Assets\Plugins\TestConsole.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

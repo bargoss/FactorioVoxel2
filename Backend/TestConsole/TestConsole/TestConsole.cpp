@@ -5,11 +5,13 @@
 
 #include <windows.h> 
 #include <stdio.h> 
+#include "Game.h"
 
 //#include "Game.h"
 __declspec(dllimport) void ConsoleAppEntry();
 int main()
 {
+	/*
 	typedef int(*MyFunct_t)();
 	auto myDLL = LoadLibrary(L"Game.dll");
 	auto MyFunct = (MyFunct_t)GetProcAddress(myDLL, "ConsoleAppEntry");
@@ -18,6 +20,9 @@ int main()
 	ConsoleAppEntry();
 
     std::cout << "end";
+	*/
+
+	ConsoleAppEntry();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
